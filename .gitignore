@@ -1,0 +1,34 @@
+# Dependency directories
+node_modules/
+
+# Build files
+build/
+dist/
+
+# Environment variables
+.env*
+
+# IDE files
+.idea/
+.vscode/
+
+# Logs and databases
+*.log
+*.sqlite
+*.log.*
+*.db
+*.sqlite3
+
+# Compiled files
+*.class
+*.war
+*.ear
+*.jar
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.swp
